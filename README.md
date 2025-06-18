@@ -9,5 +9,8 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Design Tools: Figma for UI/UX design
 
 ## UI/UX Design Planning
--
--
+### Colors
+- Primary color #34967C 
+- Secondary color #161117 (black)
+- Secondary color #FFA800 (orange)
+- Shimmer #F8FAFC
